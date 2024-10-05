@@ -1,3 +1,5 @@
+**/__pycache__/
+
 logs
 src/__pycache__
 src/pipeline/__pycache__
